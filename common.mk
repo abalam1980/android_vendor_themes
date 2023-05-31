@@ -5,5 +5,3 @@ include vendor/themes/fonts.mk
 PRODUCT_PACKAGES += \
     ThemedIconsOverlay
 
-# UI Styles
-include vendor/themes/uistyles.mk
